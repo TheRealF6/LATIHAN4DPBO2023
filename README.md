@@ -7,4 +7,4 @@ Desain Program: Program merupakan program composite dan inheritance. Program ini
 Alur Program: Program menggunakan input hardcode Setelah input selesai, program akan menampilkan seluruh data yang telah dimasukkan oleh user.
 
 Dokumentasi program (Python):
-![Latihan4DPBO2023 (Python)](https://user-images.githubusercontent.com/119662753/223164616-53e70c8e-9c09-411a-8526-4743ee6bbe93.png)
+![Latihan4DPBO2023 (Python)](https://user-images.githubusercontent.com/119662753/223174117-7d637ce7-6947-4d61-bb6f-8d81519169de.png)
